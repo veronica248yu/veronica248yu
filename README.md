@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @veronica248yu
+- 🌱 I’m currently learning Python and JavaScript along with HTML & CSS
